@@ -1,2 +1,5 @@
-
-In this project i can make a record keeping system using react and material UI
+It is a complete project of Record Keeping System
+<br>
+I made this project from react a powerfull and popular library of javascript
+<br>
+In this project i also use MUI (Material UI)
