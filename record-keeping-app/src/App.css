@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  margin : 0;
+}
+
+.header {
+  background-color: rgb(121, 18, 248);
+  padding: 10px;
+  width: 100%;
+}
+
+.form {
+  margin-top: 20px;
+  display: fixed;
+}
+
+.data {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.datafeild {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  padding: 0px 9px 0px 9px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 50px 0px;
+}
